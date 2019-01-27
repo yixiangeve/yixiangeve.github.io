@@ -3,7 +3,6 @@
 // --------------------------------------------------
 
 $gray-darker:           lighten(#000, 13.5%) !default; // #222
-$red:                   lighten(#ec1010, 40%) !default;   // red
 $gray-dark:             lighten(#000, 20%) !default;   // #333
 $gray:                  lighten(#000, 33.5%) !default; // #555
 $gray-light:            lighten(#000, 46.7%) !default; // #777
@@ -27,4 +26,4 @@ $link-hover-color:      darken($link-color, 15%) !default;
 
 $metabar-top-bg:				#eee !default;
 
-$hero-gradient:         $red;
+$hero-gradient:         $gray-dark;
